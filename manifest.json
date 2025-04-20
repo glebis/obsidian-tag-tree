@@ -1,0 +1,11 @@
+{
+	"id": "tag-folder",
+	"name": "Tag Folder",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Tag Folder Obsidian plugin",
+	"author": "Gleb Kalinin",
+	"authorUrl": "https://glebkalinin.com",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
